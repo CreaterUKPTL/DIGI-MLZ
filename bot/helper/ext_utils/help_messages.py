@@ -58,7 +58,7 @@ link pswd: pass(zip/unzip) opt: ytdlpoptions up: remote2:path2
 Reply to this example by this cmd <code>/{cmd}</code> b(bulk)
 You can set start and end of the links from the bulk with -b start:end or only end by -b :end or only start by -b start. The default start is from zero(first link) to inf.
 
-Check all yt-dlp api options from this <a href='https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/YoutubeDL.py#L184'>FILE</a> or use this <a href='https://graph.org/Script-to-convert-cli-arguments-to-api-options-05-28'>SCRIPT</a> to convert cli arguments to api options.
+Check all yt-dlp api options from this <a href='https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/YoutubeDL.py#L184'>FILE</a> or use this <a href='https://graph.org/Script-to-convert-cli-arguments-to-api-options-03-07'>SCRIPT</a> to convert cli arguments to api options.
 
 <b>All Args:</b>
 
@@ -162,7 +162,7 @@ Some links need user access so sure you must add USER_SESSION_STRING for it.
 
 <b><u>NOTES</u></b>:
 1. Commands that start with <b>qb</b> are ONLY for torrents.
-2. Read all arguments <a href='https://graph.org/Z-Mirror-Bot-Arguments-06-10'>HERE</a>.
+2. Read all arguments <a href='https://graph.org/DigiBotz-DIGI-MLZ-Bot-Arguments-03-07'>HERE</a>.
 
 <b>Powered By @DigiBotz</b>
 """
